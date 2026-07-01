@@ -1,4 +1,4 @@
-# CG_Projct
+# CG_Project
 # Animated Landscape Scene using OpenGL
 
 This project was developed using C++ and OpenGL (GLUT). It demonstrates an interactive 2D landscape with animations and user controls.
